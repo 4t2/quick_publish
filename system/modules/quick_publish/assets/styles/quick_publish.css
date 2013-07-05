@@ -1,0 +1,42 @@
+
+.tl_listing .tl_left
+{
+	width: 400px;
+}
+
+.tl_listing ul.level_1 .tl_left
+{
+	width: 380px;
+}
+.tl_listing ul.level_2 .tl_left
+{
+	width: 360px;
+}
+.tl_listing ul.level_3 .tl_left
+{
+	width: 340px;
+}
+.tl_listing ul.level_4 .tl_left
+{
+	width: 320px;
+}
+.tl_listing ul.level_5 .tl_left
+{
+	width: 300px;
+}
+.tl_listing ul.level_6 .tl_left
+{
+	width: 280px;
+}
+.tl_listing ul.level_7 .tl_left
+{
+	width: 260px;
+}
+.tl_listing ul.level_8 .tl_left
+{
+	width: 240px;
+}
+.tl_listing ul.level_9 .tl_left
+{
+	width: 220px;
+}
